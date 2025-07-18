@@ -1,7 +1,6 @@
 # Roadmap Repo
 
-- By: Maarten R. Struijk Wilbrink
-- For: Leiden University SOSXR
+- By: Alexey Perov
 - Fully open source: Feel free to add to, or modify, anything you see fit.
 
 ## Bugs / Issues
