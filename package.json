@@ -11,5 +11,12 @@
   "author": {
     "name": "Alexey Perov",
     "url": "https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "Contains samples of this package",
+      "path": "Samples~/Samples"
+    }
+  ]
 }
